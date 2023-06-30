@@ -1,3 +1,4 @@
 counterfit
 counterfit-shims-seeed-python-dht
 azure-iot-device
+pandas
